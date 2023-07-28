@@ -2,8 +2,9 @@ body{
     background-color: #1b1729;
 }
 h1 {
-    color: #dfe7ed
+    color: #dfe7ed;
+    size: 50px;
 }
 h2 {
-    color: #dfe7ed
+    color: #dfe7ed;
 }
